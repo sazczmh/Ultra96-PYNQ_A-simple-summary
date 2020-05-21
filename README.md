@@ -1,10 +1,8 @@
 
-@[TOC](Ultra96 PYNQ入门之一次简单的总结)
 
 
 **不合理的地方欢迎批评指正！！！**
 
-[源代码链接：Ultra96-PYNQ_A-simple-summary](https://github.com/sazczmh/Ultra96-PYNQ_A-simple-summary)
 #  1 分享声明
 
  1. 本文是学习过程的阶段性总结，肯定有很多用法不合适的地方，在此欢迎批评指正；
@@ -44,10 +42,11 @@
  **[核心板卡_Ultra96-V2](https://www.avnet.com/wps/portal/us/products/new-product-introductions/npi/aes-ultra96-v2/)**
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020052112350474.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70#pic_center)
 **[软件环境_PYNQ-V2.5](http://www.pynq.io/board.html)**![在这里插入图片描述](https://img-blog.csdnimg.cn/2020052020170826.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70#pic_center)
+
 **辅助仪器**
 因Ultra96-V2板卡没有合适的外设，需要结合一些示波器、信号发生器、电压表、逻辑分析仪啥的辅助分析，现在因疫情在家，口袋仪器较为合适hhh，比较推荐AD2。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200521123350869.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70#pic_center)
-**os：AD2老贵了，我手里的一块AD2还是从本科实验室借出来的，因现在是研究生，本科实验室老师老是催我还hhh。**
+**os：AD2老贵了，我手里的一块AD2还是从本科实验室借出来的，因现在是研究生，本科实验室老师老是催我还hhh。
 
 
 <br />

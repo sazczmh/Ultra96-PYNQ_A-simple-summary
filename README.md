@@ -46,7 +46,7 @@
 **辅助仪器**
 因Ultra96-V2板卡没有合适的外设，需要结合一些示波器、信号发生器、电压表、逻辑分析仪啥的辅助分析，现在因疫情在家，口袋仪器较为合适hhh，比较推荐AD2。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200521123350869.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70#pic_center)
-**os：AD2老贵了，我手里的一块AD2还是从本科实验室借出来的，因现在是研究生，本科实验室老师老是催我还hhh。
+**os：AD2老贵了，我手里的一块AD2还是从本科实验室借出来的，因现在是研究生，本科实验室老师老是催我还hhh。**
 
 
 <br />
@@ -54,7 +54,7 @@
 
 **原创不易，严禁剽窃！**
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190918110341834.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70#pic_center  =200x200)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190918110341834.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70#pic_center =200x200)
 
 
 欢迎大家关注我创建的微信公众号——小白仓库

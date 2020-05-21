@@ -25,10 +25,10 @@
  2. [Ultra96 PYNQ入门之二——PS端控制AXI GPIO](https://blog.csdn.net/qq_35712169/article/details/106246416)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200520234402673.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70#pic_center )
  3. [Ultra96 PYNQ入门之三——中断与协程](https://blog.csdn.net/qq_35712169/article/details/106247110)
- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200521000107102.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70)
+ ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200521000107102.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70#pic_center)
  4. [Ultra96 PYNQ入门之四——数据搬运能手DMA](https://blog.csdn.net/qq_35712169/article/details/106249333)
- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200521092155846.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70)
- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200521094405745.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70)
+ ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200521092155846.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70#pic_center)
+ ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200521094405745.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70#pic_center)
  
  5. [Ultra96 PYNQ入门之五——PMIC](https://blog.csdn.net/qq_35712169/article/details/106253118)
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200521114526837.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM1NzEyMTY5,size_16,color_FFFFFF,t_70)
